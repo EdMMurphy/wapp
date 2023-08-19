@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bigapp/static/css/main.f087d7f2.css",
-    "main.js": "/bigapp/static/js/main.68e8d42c.js",
-    "index.html": "/bigapp/index.html",
-    "main.f087d7f2.css.map": "/bigapp/static/css/main.f087d7f2.css.map",
-    "main.68e8d42c.js.map": "/bigapp/static/js/main.68e8d42c.js.map"
+    "main.css": "/react-bigapp/static/css/main.f087d7f2.css",
+    "main.js": "/react-bigapp/static/js/main.68e8d42c.js",
+    "index.html": "/react-bigapp/index.html",
+    "main.f087d7f2.css.map": "/react-bigapp/static/css/main.f087d7f2.css.map",
+    "main.68e8d42c.js.map": "/react-bigapp/static/js/main.68e8d42c.js.map"
   },
   "entrypoints": [
     "static/css/main.f087d7f2.css",
